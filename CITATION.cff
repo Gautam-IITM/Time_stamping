@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: github-TDC
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: SivaRam
+  - given-names: Gautam
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/Gautam-IITM/Time_stamping/blob/main/main.c
+repository-code: >-
+  https://github.com/Gautam-IITM/Time_stamping/blob/main/main.c
